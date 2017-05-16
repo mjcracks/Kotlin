@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/manishjoshi/Downloads/Kotlin/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/home/manishjoshi/Downloads/Kotlin/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_b60d7264ed31f7a74025c3a1e9ba518f0cf83262/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/manishjoshi/Downloads/Kotlin/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/home/manishjoshi/Downloads/Kotlin/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_9db31daaee6767a9f0e78de200df0c56e28dfd2e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/manishjoshi/Downloads/Kotlin/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/home/manishjoshi/Downloads/Kotlin/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_1e8d803b22f6cfbbc941a49efb82125da5dadf15/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/manishjoshi/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.1.1/98e484e67f913e934559f7f55f0c94be5593f03c/kotlin-stdlib-1.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="98e484e67f913e934559f7f55f0c94be5593f03c">
+        <dex dex="/home/manishjoshi/Downloads/Kotlin/app/build/intermediates/transforms/dex/debug/folders/1000/10/kotlin-stdlib-1.1.1_14240a199ca84948dab90fe6329f19bffb546723/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/manishjoshi/Downloads/Kotlin/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/home/manishjoshi/Downloads/Kotlin/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_bc82469528e2ec86eea1149e97ea42498b3feac2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/manishjoshi/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/home/manishjoshi/Downloads/Kotlin/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.0_caf2c777ce47c516d8e614f269a78cbc4cee988c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/manishjoshi/Downloads/Kotlin/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/home/manishjoshi/Downloads/Kotlin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.0_188b8d9bc512b247df63af9b0d2bae101e7bb270/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/manishjoshi/Downloads/Kotlin/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/home/manishjoshi/Downloads/Kotlin/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_642337e9ac1d9b8e1ea5c13c6875d31fb35e2555/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/manishjoshi/Downloads/Kotlin/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/home/manishjoshi/Downloads/Kotlin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.0_308de4e974782548d43923bb959de31e4c4d0750/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/manishjoshi/Downloads/Kotlin/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3c8b2415893d508926e0c8f45be47abb2400cf3f">
+        <dex dex="/home/manishjoshi/Downloads/Kotlin/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_6f4bbe8b83db1d4422123ff9314768a855a5315e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/manishjoshi/Downloads/Kotlin/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/manishjoshi/Downloads/Kotlin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.0_55e5549d0813ea23f1ec7ff9c511ef5a8f2984e6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/manishjoshi/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="919f0dfe192fb4e063e7dacadee7f8bb9a2672a9">
+        <dex dex="/home/manishjoshi/Downloads/Kotlin/app/build/intermediates/transforms/dex/debug/folders/1000/10/annotations-13.0_7d46cfad2346c297fa9730f9d4da9bfe15fd9ced/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/manishjoshi/Downloads/Kotlin/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b3e348c0329b0f45e35bf2109d975eec4b23dd6a">
+        <dex dex="/home/manishjoshi/Downloads/Kotlin/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_25612a300cff56cafe475eb6022c9777f240eb59/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/manishjoshi/Downloads/Kotlin/app/build/intermediates/exploded-aar/com.android.support/customtabs/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="94ba691efc31bf53264db0716d9c9ec03843ea31">
+        <dex dex="/home/manishjoshi/Downloads/Kotlin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-customtabs-25.0.0_16f2ad85e4763b85c015755a6ed985300cf492ca/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/manishjoshi/Downloads/Kotlin/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/home/manishjoshi/Downloads/Kotlin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.0_c1918401928f71999b1a10c48b3196f0d7f07319/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/manishjoshi/Downloads/Kotlin/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/home/manishjoshi/Downloads/Kotlin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.0_cdc4aebd44a26efb99d357cc118a397f425e0fce/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/manishjoshi/Downloads/Kotlin/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/home/manishjoshi/Downloads/Kotlin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.0_e4edbb6aa212fd992efca1baa2f2214320212bcf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/manishjoshi/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jre7/1.1.1/e3be78b463658ae5a8c8b446b811671998c91f5/kotlin-stdlib-jre7-1.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0e3be78b463658ae5a8c8b446b811671998c91f5">
+        <dex dex="/home/manishjoshi/Downloads/Kotlin/app/build/intermediates/transforms/dex/debug/folders/1000/10/kotlin-stdlib-jre7-1.1.1_91b81683a3e250c5cf60f958f673da686d502060/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/manishjoshi/Downloads/Kotlin/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/home/manishjoshi/Downloads/Kotlin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.0_2880be805913dda10081ba1c4f7ec4ea1ffdee58/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/manishjoshi/Downloads/Kotlin/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/home/manishjoshi/Downloads/Kotlin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.0_547d9bf1827062831184155653560c28dc230afc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/manishjoshi/Downloads/Kotlin/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/home/manishjoshi/Downloads/Kotlin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.0_d86c1d84c325feabcbf51bddc04036b35882fcf9/classes.dex" />
+    </item>
+
+</items>
